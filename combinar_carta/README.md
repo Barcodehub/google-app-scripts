@@ -2,6 +2,15 @@
 
 Este proyecto implementa un sistema de combinación de correspondencia utilizando **Google Apps Script**, **Google Sheets** y **Google Docs**. Permite generar automáticamente documentos personalizados en PDF a partir de una plantilla y datos en una hoja de cálculo, y enviarlos por correo electrónico.
 
+## Escenario real de aplicación:
+Imagina que eres el coordinador de un programa de becas en una universidad. Cada semestre, necesitas enviar cartas de aceptación personalizadas a cientos de estudiantes. Aquí es donde este script sería muy útil:
+
+Crea una hoja de cálculo con columnas como: Nombre, Email, Carrera, Monto de la beca, Fecha de inicio, etc.
+Diseña una plantilla de carta de aceptación en Word o Google Docs, usando marcadores de posición para los datos personalizados.
+Ejecuta el script para generar automáticamente todas las cartas, convertirlas a PDF, y enviarlas por correo electrónico a cada estudiante.
+
+Este proceso automatizado te ahorraría horas de trabajo manual, reduciría errores y proporcionaría una experiencia consistente y profesional para todos los estudiantes. Además, al tener los PDFs compartidos públicamente, los estudiantes podrían acceder a sus cartas de aceptación en cualquier momento, incluso si pierden el correo electrónico original.
+
 ## Características
 
 - Genera un menú personalizado en Google Sheets para iniciar el proceso.
