@@ -1,5 +1,6 @@
 {
   "timeZone": "America/Bogota",
+  "Author":"Brayan Barco",
   "dependencies": {
   },
   "exceptionLogging": "STACKDRIVER",
